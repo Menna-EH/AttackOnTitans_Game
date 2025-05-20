@@ -1,0 +1,22 @@
+INDEX VERSION 1.127+C:\Users\Mennatulla\Desktop\GUC 5\evalCS4\.metadata\.plugins\org.eclipse.jdt.core
+1768157102.index
+1988822728.index
+2457523673.index
+3110291672.index
+554098131.index
+4102479081.index
+3053200667.index
+2823114265.index
+2660121089.index
+962884957.index
+315640937.index
+256686757.index
+1299079156.index
+346521160.index
+494816016.index
+4277185450.index
+967082309.index
+3362037858.index
+1998867795.index
+2711429706.index
+1361802252.index
